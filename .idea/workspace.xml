@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c9d16ed9-6358-461d-bcbd-97a227865c91" name="Changes" comment="initial code to commit1">
+    <list default="true" id="c9d16ed9-6358-461d-bcbd-97a227865c91" name="Changes" comment="added a date in a pdf">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PDFs/10001-2023.1.18.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/PDFs/10001-2023.1.18.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PDFs/10002-2023.1.18.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/PDFs/10002-2023.1.18.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PDFs/10003-2023.1.18.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/PDFs/10003-2023.1.18.pdf" afterDir="false" />
@@ -130,7 +131,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713119535835</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="added a date in a pdf">
+      <option name="closed" value="true" />
+      <created>1713155661518</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1713155661518</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -139,6 +148,7 @@
     <MESSAGE value="added important file1" />
     <MESSAGE value="initial code to commit" />
     <MESSAGE value="initial code to commit1" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial code to commit1" />
+    <MESSAGE value="added a date in a pdf" />
+    <option name="LAST_COMMIT_MESSAGE" value="added a date in a pdf" />
   </component>
 </project>
